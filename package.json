@@ -1,6 +1,6 @@
 {
   "name": "large-map",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "description": "A wrapper to deal with a large number of elements in Map.",
   "url": "https://github.com/aldipermanaetikaputra/large-map",
   "keywords": [
